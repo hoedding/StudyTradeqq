@@ -18,4 +18,3 @@ public class ErrorMsg extends Panel {
 	}
 
 }
- 
